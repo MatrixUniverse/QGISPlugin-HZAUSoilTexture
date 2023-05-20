@@ -285,7 +285,7 @@ class HZAUSoilTextureDialog(QtWidgets.QDialog, FORM_CLASS):
     def open_source(self):
         """Github源码网址"""
         """本插件主要代码来源于Gianluca Massei（http://maplab.alwaysdata.net/）"""
-        webbrowser.open("https://github.com/MatrixUniverse/qgis-plugin-hzausoiltexture")
+        webbrowser.open("https://github.com/MatrixUniverse/QGISPlugin-HZAUSoilTexture")
 
     def plotFile(self, dataClay, dataSand, outFile):
         """"生成质地三角形中砂粒sand、粉粒silt、粘粒clay的坐标csv文件"""
