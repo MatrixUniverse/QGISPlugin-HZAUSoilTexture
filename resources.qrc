@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/hzau_soil_texture" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
